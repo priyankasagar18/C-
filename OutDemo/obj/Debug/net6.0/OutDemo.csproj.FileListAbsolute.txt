@@ -1,0 +1,15 @@
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\bin\Debug\net6.0\OutDemo.exe
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\bin\Debug\net6.0\OutDemo.deps.json
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\bin\Debug\net6.0\OutDemo.runtimeconfig.json
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\bin\Debug\net6.0\OutDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\bin\Debug\net6.0\OutDemo.pdb
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\OutDemo.csproj.AssemblyReference.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\OutDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\OutDemo.AssemblyInfoInputs.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\OutDemo.AssemblyInfo.cs
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\OutDemo.csproj.CoreCompileInputs.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\OutDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\refint\OutDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\OutDemo.pdb
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\OutDemo.genruntimeconfig.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\OutDemo\obj\Debug\net6.0\ref\OutDemo.dll
