@@ -1,0 +1,15 @@
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\bin\Debug\net6.0\TryParseDemo.exe
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\bin\Debug\net6.0\TryParseDemo.deps.json
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\bin\Debug\net6.0\TryParseDemo.runtimeconfig.json
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\bin\Debug\net6.0\TryParseDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\bin\Debug\net6.0\TryParseDemo.pdb
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\TryParseDemo.csproj.AssemblyReference.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\TryParseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\TryParseDemo.AssemblyInfoInputs.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\TryParseDemo.AssemblyInfo.cs
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\TryParseDemo.csproj.CoreCompileInputs.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\TryParseDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\refint\TryParseDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\TryParseDemo.pdb
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\TryParseDemo.genruntimeconfig.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\TryParseDemo\obj\Debug\net6.0\ref\TryParseDemo.dll
