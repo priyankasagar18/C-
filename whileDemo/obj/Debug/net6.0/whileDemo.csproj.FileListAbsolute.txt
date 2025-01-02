@@ -1,0 +1,15 @@
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\bin\Debug\net6.0\whileDemo.exe
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\bin\Debug\net6.0\whileDemo.deps.json
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\bin\Debug\net6.0\whileDemo.runtimeconfig.json
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\bin\Debug\net6.0\whileDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\bin\Debug\net6.0\whileDemo.pdb
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\whileDemo.csproj.AssemblyReference.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\whileDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\whileDemo.AssemblyInfoInputs.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\whileDemo.AssemblyInfo.cs
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\whileDemo.csproj.CoreCompileInputs.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\whileDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\refint\whileDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\whileDemo.pdb
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\whileDemo.genruntimeconfig.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\whileDemo\obj\Debug\net6.0\ref\whileDemo.dll
