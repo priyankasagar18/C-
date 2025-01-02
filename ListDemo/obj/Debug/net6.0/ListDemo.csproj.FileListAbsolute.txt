@@ -1,0 +1,15 @@
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\bin\Debug\net6.0\ListDemo.exe
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\bin\Debug\net6.0\ListDemo.deps.json
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\bin\Debug\net6.0\ListDemo.runtimeconfig.json
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\bin\Debug\net6.0\ListDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\bin\Debug\net6.0\ListDemo.pdb
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\ListDemo.csproj.AssemblyReference.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\ListDemo.AssemblyInfoInputs.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\ListDemo.AssemblyInfo.cs
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\ListDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\refint\ListDemo.dll
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\ListDemo.pdb
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\ListDemo.genruntimeconfig.cache
+C:\Users\vkrishit\Desktop\Pri\c#practice\ListDemo\obj\Debug\net6.0\ref\ListDemo.dll
